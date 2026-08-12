@@ -40,4 +40,3 @@
 ---
 
 ⭐ Sempre aprendendo, criando projetos e evoluindo na programação.
-![Snake animation](https://raw.githubusercontent.com/Danieldev-a11/Danieldev-a11/output/github-contribution-grid-snake.svg)
