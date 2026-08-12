@@ -13,7 +13,7 @@ jobs:
 
       - uses: Platane/snk@master
         with:
-          github_user_name: Danieldev-a11
+          github_user_name: Danieldev_a11
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
