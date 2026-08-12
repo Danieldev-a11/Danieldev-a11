@@ -2,7 +2,7 @@
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas
 🚀 Desenvolvedor de Software em formação
-📍 São Paulo, Brasil
+📍 São Paulo, Brasil.
 
 🛠️ Tecnologias
 <div style="display: inline_block"><br>
@@ -40,3 +40,4 @@
 ---
 
 ⭐ Sempre aprendendo, criando projetos e evoluindo na programação.
+![Snake animation](https://raw.githubusercontent.com/Danieldev-a11/Danieldev-a11/output/github-contribution-grid-snake.svg)
