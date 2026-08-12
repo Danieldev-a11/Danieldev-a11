@@ -1,4 +1,4 @@
-👋 Olá! Eu sou Daniel de Sousa
+👋 Olá! Eu sou Daniel de Sousa.
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas
 🚀 Desenvolvedor de Software em formação
