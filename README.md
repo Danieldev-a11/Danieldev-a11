@@ -4,10 +4,7 @@
 🚀 Desenvolvedor de Software em formação
 📍 São Paulo, Brasil
 
-Atualmente estudo Análise e Desenvolvimento de Sistemas e venho desenvolvendo projetos acadêmicos e pessoais para aprimorar meus conhecimentos em programação e desenvolvimento de software.
-
 🛠️ Tecnologias
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
