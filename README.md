@@ -1,8 +1,8 @@
-👋 Olá! Eu sou Daniel de Sousa.
+👋 Olá! Eu sou Daniel de Sousa
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas
 🚀 Desenvolvedor de Software em formação
-📍 São Paulo, Brasil.
+📍 São Paulo, Brasil
 
 🛠️ Tecnologias
 <div style="display: inline_block"><br>
