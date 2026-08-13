@@ -3,10 +3,6 @@
 💻 Estudante de Análise e Desenvolvimento de Sistemas
 🚀 Desenvolvedor de Software em formação
 📍 São Paulo, Brasil
-](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
-
-<div style="display: inline_block"><br>
-  <img align="center"
 
 🛠️ Tecnologias
 <div style="display: inline_block"><br>
